@@ -1,9 +1,9 @@
 
 #Udacity full stack nano degree: Linux server project
 
-##IP Address:
+##IP Address: 18.222.166.98 (Cannot use this as main link because of google auoth issues)
 
-##URL:
+##URL: http://18.222.166.98.xip.io/
 
 ##Port: 2200
 
